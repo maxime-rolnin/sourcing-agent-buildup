@@ -1,0 +1,62 @@
+{
+ "AXO": {
+  "siren": "413060492",
+  "nom": "AXO",
+  "ville": "Auray",
+  "dep": "56",
+  "naf": "46.69C",
+  "effectif": "12",
+  "ca": 5476524,
+  "ca_annee": "2025",
+  "resultat_net": 317127,
+  "dirigeants": "President : holding",
+  "creation": "1997",
+  "etablissements_ouverts": 9,
+  "note": "Reseau de 9 etablissements ouverts. Presidee par une holding : verifier qui la controle et si un fonds est deja au capital."
+ },
+ "BEHRING": {
+  "siren": "488055658",
+  "nom": "BEHRING",
+  "ville": "Meylan",
+  "dep": "38",
+  "naf": "46.69C",
+  "effectif": "12",
+  "ca": 8177693,
+  "ca_annee": "2025",
+  "resultat_net": -1335616,
+  "dirigeants": "President (ne en 1958) ; DG (ne en 1960)",
+  "creation": "2006",
+  "etablissements_ouverts": 1,
+  "note": "Perte nette de 1,3 M€ en 2025 et dirigeants nés autour de 1960 : question de transmission possible, mais il faut comprendre la perte avant tout."
+ },
+ "AQUAOCEANE / M2P": {
+  "siren": "425107562",
+  "nom": "M2P (Aquaocéane)",
+  "ville": "Montivilliers",
+  "dep": "76",
+  "naf": "46.69C",
+  "effectif": "03",
+  "ca": null,
+  "ca_annee": "",
+  "resultat_net": 135037,
+  "dirigeants": "Presidente (personne physique)",
+  "creation": "1999",
+  "etablissements_ouverts": 1,
+  "note": "Chiffre d'affaires non publié (comptes probablement confidentiels). 6 à 9 salariés : à la limite basse de la taille cible."
+ },
+ "PIERRETTE - T.B.A": {
+  "siren": "306042268",
+  "nom": "PIERRETTE T.B.A.",
+  "ville": "Malzéville",
+  "dep": "54",
+  "naf": "77.29Z",
+  "effectif": "41",
+  "ca": 68603583,
+  "ca_annee": "2025",
+  "resultat_net": 5553304,
+  "dirigeants": "Conseil d'administration",
+  "creation": "1956",
+  "etablissements_ouverts": 5,
+  "note": "Grande entreprise de location-entretien (linge). Trop grande, hors cible."
+ }
+}
